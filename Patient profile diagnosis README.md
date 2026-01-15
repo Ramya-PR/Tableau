@@ -14,4 +14,4 @@ Key Insights:
 6. Top CPT codes and their frequency
 
 
-Link to the Tableau Dashboard: https://public.tableau.com/views/Patientprofilediagnosis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link to the Tableau Dashboard: https://public.tableau.com/views/Patientprofilediagnosis/PatientProfileDiagnosis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
