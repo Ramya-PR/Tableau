@@ -12,3 +12,6 @@ Key Insights:
 4. Total dignosis events per patient
 5. High utilizers (who have 4+ visits)
 6. Top CPT codes and their frequency
+
+
+Link to the Tableau Dashboard: https://public.tableau.com/views/Patientprofilediagnosis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
